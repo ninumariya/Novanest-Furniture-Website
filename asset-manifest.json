@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Novanest-Furniture-Website/static/css/main.430f1ed0.css",
+    "main.js": "/Novanest-Furniture-Website/static/js/main.86cd8784.js",
+    "static/media/page_header.jpeg": "/Novanest-Furniture-Website/static/media/page_header.468fb8b59ec53607666b.jpeg",
+    "static/media/slick.svg": "/Novanest-Furniture-Website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Novanest-Furniture-Website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Novanest-Furniture-Website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Novanest-Furniture-Website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Novanest-Furniture-Website/index.html",
+    "main.430f1ed0.css.map": "/Novanest-Furniture-Website/static/css/main.430f1ed0.css.map",
+    "main.86cd8784.js.map": "/Novanest-Furniture-Website/static/js/main.86cd8784.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.430f1ed0.css",
+    "static/js/main.86cd8784.js"
+  ]
+}
